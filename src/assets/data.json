@@ -1,0 +1,35 @@
+{
+  "projects": [
+    {
+      "date": "07/10/2023",
+      "title": "Simple Linear Regression",
+      "description": "Simple Linear Regression on FuelConsumption.csv, which contains model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles for retail sale in Canada.",
+      "url": "https://github.com/pranavvyawahare25/Simple-Linear-regression-on-Fuel-Consumption-data",
+      "imgSrc": "https://plus.unsplash.com/premium_photo-1663091693418-a64b58275ca4?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+
+   
+    {
+      "date": "15/12/2023",
+      "title": "Image Classification with TensorFlow and CIFAR-10",
+      "description": "This project contains a simple image classification  using TensorFlow and the CIFAR-10 dataset. The code demonstrates how to build a Convolutional Neural Network (CNN) to classify images into different categories.",
+      "url": "https://github.com/pranavvyawahare25/Image-Classification-using-TensorFlow-and-CIFAR-10",
+      "imgSrc": "https://lh5.googleusercontent.com/0tRwW_N8aqEBR2F-a6ggpbveaBw-20mYHdKA_EIPWfIHz7QisxcIJUdMtMYfC6g3u-1GuCOgeXd4nBfdzv9oYxprL_roc2msDIu5HrBVNlnybw_gnLP-jLo279pAi7MU5JppM7FlQuvROjvWDexxQxc"
+    },
+    {
+      "date": "01/01/2024",
+      "title": "Next Word Predictor",
+      "description": "A machine learning-based tool that suggests probable next words in a sentence, enhancing writing efficiency and fluency.",
+      "url": "https://github.com/pranavvyawahare25/Next-Word-Predictor",
+      "imgSrc": "https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2023/07/IMG_0876.jpg?resize=391%2C333&ssl=1"
+    },
+
+    {
+      "date": "21/03/2024",
+      "title": "PORTFOLIO",
+      "description": "A dynamic web platform showcasing professional accomplishments and skills, built using the React framework for enhanced interactivity and user experience.",
+      "url": "/",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN3yDtqtAnrMxys8f4bevWxuMSLIKpvECgbBzeUrRFNA&s"
+    }
+  ]
+}
